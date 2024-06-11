@@ -6,7 +6,7 @@ subtitle: Math Ph.D. at The University of Alabama
 
 profile:
   align: right
-  image: dang2.jpg
+  image: SonNguyen.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p></p>
