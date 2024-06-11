@@ -47,6 +47,13 @@
         - Programmed Python code in Azure Databricks to automate the ETL process for data
         - Built time-series and regression models for short-term sales and delivery time forecasting
 
+    - title: Researcher
+      institution: Optimization and Optimal Control Department, Vietnam Institute of Mathematics, Vietnam
+      year: 2015 - 2016
+      description:
+        - Programmed Python code in Azure Databricks to automate the ETL process for data
+        - Built time-series and regression models for short-term sales and delivery time forecasting
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -54,7 +61,7 @@
       items:
         - Half Ainsworth and Miller Math Fellowship
         
-    - year: 2019-2021
+    - year: 2019 - 2021
       items:
         - Full Ainsworth Fellowship with summer support
         
