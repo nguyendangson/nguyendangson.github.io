@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Resume
 nav: true
 nav_order: 4
-cv_pdf: DangNguyen_CV.pdf
+#cv_pdf: DangNguyen_CV.pdf
 ---
