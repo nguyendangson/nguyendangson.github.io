@@ -24,5 +24,3 @@ I am a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, 
 I am interested in both Math and Computer Science. My research focuses on the application of techniques from pure mathematics to the solution of fundamental problems in Computational Geometry, Computational Biology, Graph theory, Optimization, Probability/Statistics, problems.
 
 From Oct 2023-May 2024, I was a Data Science Intern in Management Reporting and Business Intelligence team at Volvo Trucks , Greensboro, North Carolina, US. Currently, I am looking for jobs: Data Science, Statistician, Machine Learning Engineering, Quantitative Analysis/Research, and Computational Science
-
-
