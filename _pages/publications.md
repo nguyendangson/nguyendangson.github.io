@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: (*) denotes equal contribution
+description:
 years: [2024,2023,2022]
 nav: true
 nav_order: 1
