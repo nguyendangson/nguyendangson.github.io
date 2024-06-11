@@ -51,8 +51,8 @@
       institution: Optimization and Optimal Control Department, Vietnam Institute of Mathematics, Vietnam
       year: 2015 - 2016
       description:
-        - Programmed Python code in Azure Databricks to automate the ETL process for data
-        - Built time-series and regression models for short-term sales and delivery time forecasting
+        - Researched about algorithms in convex optimization in Image/Signal Processing Recover problems
+        - Used Matlab to implement algorithms, including Douglas-Rachford, Proximal Splitting, Gradient-Based, and Primal-Dual
 
 - title: Honors and Awards
   type: time_table
