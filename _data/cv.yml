@@ -11,54 +11,58 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Computer Science 
-      institution: University of California, Los Angeles
-      year: 2023 - Present
+    - title: Ph.D. in Mathematics
+      institution: The University of Alabama, Tuscaloosa, Alabama
+      year: 2019 - 2024
       description:
-        - Advised by Professor Baharan Mirzasoleiman
-        - UCLA Graduate Dean's Scholar Award
-    - title: B.S. in Information Networking for Innovation and Design
-      institution: Toyo University, Tokyo, Japan
-      year: 2017 - 2021
+        - Advised by Professor Kyungyong Lee
+        - Dissertation <a href="https://www.researchgate.net/publication/380664683_QUIVER_REPRESENTATIONS_ROBINSON-SCHENSTED_CORRESPONDENCE_AND_STANLEY'S_SYMMETRIZED">Quivers representations, Robinson-Schensted correspondence and Stanley's symmetrized chromatic polynomial</a>
+    
+    - title: M.A. in Mathematical Statistics and Optimization
+      institution: Wayne State University, Detroit, Michigan
+      year: 2016 - 2018
       description:
-        - Summa Cum Laude
-        - Gold Thesis Award
-        - Toyo Top Global Scholarship A
+    
+    - title: B.S. in Mathematics
+      institution: Hanoi Pedagogical University 2, Vietnam
+      year: 2007 - 2011
+      description:
 
 - title: Experience
   type: time_table
   contents:
-    - title: AI Research Resident
-      institution: VinAI, Hanoi, Vietnam
-      year: 2020 - 2023
+    - title: Data Science Intern
+      institution: Management Reporting and Business Intelligence team, Volvo Trucks, North Carolina, US
+      year: Jan 2024 - May 2024
       description:
-        - Collaborated with Prof. Nhat Ho (Department of Statistics and Data Sciences, University of Texas at Austin) and AI residents on multiple research projects about Optimal Transport and Model Fusion.
-        - Participated in an applied project which aims to improve the performance of object detectors in low‑light conditions.
-        - Managed GPU resources for the VinAI Residency Program.
-    - title: Part‑time Machine Learning Engineer
-      institution: FPT Japan Holdings, Yokohama, Japan
-      year: 2019 - 2020
+        - Web scraped to gather text files, images and videos links to build vector database for LLM Chatbots with RAG
+        - Cleaned text files by regex, transformed them into docx and pdf documents with certain format for vector databases
+        - Built Streamlit and Flask web apps, created Docker images and using Azure App Service to deploy Chatbots 
+        - Built front-end web apps made by Html/CSS/javascript to make post requests to Flask back-end web apps for Chatbots
+        
+    - title: Data Science Intern
+      institution: Management Reporting and Business Intelligence team, Volvo Trucks, North Carolina, US
+      year: Oct 2023 - 2023
       description:
-        - Participated in a long‑term demand forecasting project for a chain pharmacy company in Japan.
+        - Programmed Python code in Azure Databricks to automate the ETL process for data
+        - Built time-series and regression models for short-term sales and delivery time forecasting
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2023 - 2024
       items:
-        - UCLA Graduate Dean's Scholar Award
-    - year: 2017
+        - Half Ainsworth and Miller Math Fellowship
+        
+    - year: 2019-2021
       items:
-        - Toyo Top Global Scholarship A
-    - year: 2015
+        - Full Ainsworth Fellowship with summer support
+        
+    - year: 2018
       items: 
-        - First Prize, Vietnam Mathematical Olympiad
-        - Silver medal, 56th International Mathematical Olympiad
-    - year: 2014
+        - Paul Weiss Award in Recognition of Outstanding Achievement in the Master's Program
+        
+    - year: 2010
       items: 
-        - Second Prize, Vietnam Mathematical Olympiad
+        - Second-class Prize in Algebra, 18-Vietname National Student Mathematics Olympics Competition, Hue city
 
-- title: Professional Services
-  type: list
-  contents:
-    - <u>Conference Reviewer:</u> NeurIPS (2022-2023), AISTATS (2023-2024), ICML (2023-2024), ICLR (2024).
