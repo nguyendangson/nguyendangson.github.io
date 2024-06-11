@@ -2,11 +2,11 @@
 #   type: map
 #   contents:
 #     - name: Full Name
-#       value: Dang Nguyen
+#       value: Son Nguyen
 #     - name: Date of Birth
-#       value: 23rd Feb 1997
+#       value: 14 Dec 1989
 #     - name: Languages
-#       value: English, Vietnamese, Japanese
+#       value: English, Vietnamese
 
 - title: Education
   type: time_table
