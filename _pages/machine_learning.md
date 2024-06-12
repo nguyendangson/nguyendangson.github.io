@@ -1,5 +1,5 @@
 ---
-#layout: 
+layout: machine_learning
 #title: Machine Learning
 #permalink: /
 #subtitle: LLM AI Chatbot
