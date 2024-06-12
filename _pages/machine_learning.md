@@ -1,7 +1,7 @@
 ---
 layout: machine_learning
 title: Machine Learning
-permalink: /
+permalink: /machine_learning/
 subtitle: LLM AI Chatbot
 
 profile:
