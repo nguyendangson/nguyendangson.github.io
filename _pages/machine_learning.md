@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: 
 title: Machine Learning
 permalink: /
 subtitle: LLM AI Chatbot
