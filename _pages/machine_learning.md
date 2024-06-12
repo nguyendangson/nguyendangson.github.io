@@ -1,8 +1,8 @@
 ---
 layout: machine_learning
-#title: Machine Learning
-#permalink: /
-#subtitle: LLM AI Chatbot
+title: Machine Learning
+permalink: /
+subtitle: LLM AI Chatbot
 
 profile:
   align: right
