@@ -21,7 +21,7 @@ I am a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, 
 
 I am interested in both Math and Computer Science. My research interests include high-dimension Optimization,Probability,Statistics problems and their applications involving Geometry, Graph theory and Random Algorithms such as Monte Carlo methods, Matrix Scaling, Sampling on Convex Bodies, Hight-dimension Convex Geometry,... 
 
-I prefer transforming real-business problems into mathematical problems, then using Python, R or Matlab with the beautiful art of deep mathematical knowledge to solve by leveraging computing and algorithms libraries. 
+I enjoy transforming real-world business challenges into mathematical problems and solving them using Python, R, or Matlab. By leveraging my deep mathematical knowledge alongside powerful computing and algorithm libraries, I can create elegant and effective solutions.
 
 From Oct 2023-May 2024, I was a Data Science Intern in Management Reporting and Business Intelligence team at Volvo Trucks , Greensboro, North Carolina, US. 
 
