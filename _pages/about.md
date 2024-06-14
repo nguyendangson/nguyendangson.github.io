@@ -25,4 +25,4 @@ I am interested in both Math and Computer Science. My research interests include
 
 From Oct 2023-May 2024, I was a Data Science Intern in Management Reporting and Business Intelligence team at Volvo Trucks , Greensboro, North Carolina, US. 
 
-Currently, I am looking for jobs: Data Science, Statistician, Machine Learning Engineering, Quantitative Analysis/Research, and Computational Science
+Currently, I am looking for jobs: Data Science, Statistician, Operation Research, Supply Chain, Machine Learning Engineering, Quantitative Analysis/Research, and Computational Science
