@@ -9,8 +9,6 @@ profile:
   image: SonNguyen.jpg
   image_circular: false # crops the image to make it circular
   address: >
-     <p></p>
-     <p></p>
      <p>Durham, North Carolina</p>
 
 news: true  # includes a list of news items
