@@ -19,7 +19,7 @@ Who_visiting_my_page: true
 
 I am a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
-I am interested in both Math and Computer Science. My research interests include high-dimension Optimization,Probability,Statistics problems and their applications involving Geometry, Graph theory and Random Algorithms such as Monte Carlo methods, Matrix Scaling, Sampling on Convex Bodies, Hight-dimension Convex Geometry,... 
+I am interested in both Math and Computer Science. My research interests include high-dimension Optimization,Probability,Statistics problems and their applications in Operation Research, involving Geometry, Graph theory and Random Algorithms such as Monte Carlo methods, Matrix Scaling, Sampling on Convex Bodies, Hight-dimension Convex Geometry,... 
 
 I enjoy transforming real-world business challenges into mathematical problems and solving them using Python, R, or Matlab. By leveraging my deep mathematical knowledge alongside powerful computing and algorithm libraries, I can create elegant and effective solutions.
 
