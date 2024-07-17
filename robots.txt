@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://nguyendangson.github.iohttps://github.com/nguyendangson/nguyendangson.github.io/sitemap.xml
